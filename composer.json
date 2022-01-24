@@ -1,0 +1,15 @@
+{
+  "name": "rio_san_23/test-popenko-rep",
+  "type": "project",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Serg",
+      "email": "russkii@example.com"
+    }
+  ],
+  "require": {
+  }
+}
